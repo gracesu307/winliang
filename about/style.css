@@ -6,18 +6,10 @@
 	padding: 1em;
 	padding-top: 2em;
 	/*background: #1F4C73;*/
-	background-image: url("bg.png");
+	background-image: linear-gradient(to top left, #1F4C73, #45718C);
 	color: white;
 	border-radius: 1em;
 	background-size: cover;
-}
-
-@media screen and (max-width: 736px) {
-	.darkbgc{
-		background-image: url(bgphone.png);
-		background-size: cover;
-	}
-
 }
 .ttt{
 	color: #1F4C73;
